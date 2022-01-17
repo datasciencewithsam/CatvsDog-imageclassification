@@ -1,1 +1,1 @@
-# CatvsDog-imageclassification
+# Cat vs Dog-imageclassification
